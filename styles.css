@@ -27,9 +27,40 @@ body{
 
   }
   div#dynamic-island{
-    width: 30px;
-    height: 5px;
+    width: 50px;
+    height: 10px;
     background-color: black;
     border-radius: 10px;
     margin: 8px auto;
+  }
+  label{
+    display: block;
+    width: 12em;
+    font-size: 13px;
+    align-items: center;
+    margin: 23px auto 0 auto;
+  }
+  input{    
+    width: 140px;
+    margin: 5px;
+    border-radius: 4px;
+    padding: 3px 5px;
+  }
+  div#results-div{
+    display: block;
+    width: 209px;
+    height: 230px;
+    padding: 10px;
+  }
+  .phone-footer{
+    position: relative;
+    top: -10px;
+    margin: 10px auto;
+  }
+  button{
+    background-color: darkgrey;
+    border-radius: 5px;
+    margin: 0 10px;
+    width: 70px;
+    padding: 5px;
   }
