@@ -1,0 +1,1 @@
+This is a project for FreeeCodeCamp JS Algorithms and Data Structures Certification.
